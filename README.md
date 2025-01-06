@@ -1,7 +1,7 @@
 # COVID-19 Data Visualization
 
 ## Purpose
-Analyze COVID-19 epidemiology data in Canada and generate a line graph plotting case fatality rate against months in the year 2021. 
+Analyze COVID-19 epidemiology data in Canada and generate a line graph plotting the case fatality rate against months in 2021, stratified by Canadian Regions. 
 Case fatality rate was calculated by dividing the number of deaths (in that month) by the number of cases. 
 
 ## Data Source
