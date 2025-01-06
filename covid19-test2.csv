@@ -1,0 +1,2 @@
+pruid,prname,prnameFR,date,reporting_week,reporting_year,update,totalcases,numtotal_last7,ratecases_total,numdeaths,numdeaths_last7,ratedeaths,ratecases_last7,ratedeaths_last7,numtotal_last14,numdeaths_last14,ratetotal_last14,ratedeaths_last14,avgcases_last7,avgincidence_last7,avgdeaths_last7,avgratedeaths_last7
+59,British Columbia,Colombie-Britannique,2021-03-13,10,2021,1,87422,3770,1643.48,1401,18,26.34,70.87,0.34,7513,46,141.24,0.86,538.57,10.12,2.57,0.05

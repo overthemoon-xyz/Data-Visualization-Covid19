@@ -1,0 +1,4 @@
+pruid,prname,prnameFR,date,reporting_week,reporting_year,update,totalcases,numtotal_last7,ratecases_total,numdeaths,numdeaths_last7,ratedeaths,ratecases_last7,ratedeaths_last7,numtotal_last14,numdeaths_last14,ratetotal_last14,ratedeaths_last14,avgcases_last7,avgincidence_last7,avgdeaths_last7,avgratedeaths_last7
+12,Nova Scotia,Nouvelle-Écosse,2021-01-23,3,2021,1,1567,17,153.67,65,0,6.37,1.67,0,42,0,4.12,0,2.41,0.24,0,0
+59,British Columbia,Colombie-Britannique,2021-12-11,49,2021,1,222428,2493,4181.51,2381,30,44.76,46.87,0.56,4941,59,92.89,1.11,356.14,6.7,4.29,0.08
+35,Ontario,Ontario,2022-06-11,23,2022,1,1312185,5295,8684.55,13336,51,88.26,35.04,0.34,11167,113,73.91,0.75,756.43,5.01,7.29,0.05
