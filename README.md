@@ -7,3 +7,5 @@ Case fatality rate was calculated by dividing the number of deaths (in that mont
 ## Data Source
 Source data was taken from the Government of Canada website, available publicly.  
 [Source Data Website] (https://health-infobase.canada.ca/covid-19/?redir=1#tiles)
+
+![Graph Image](./graph_image.png)
